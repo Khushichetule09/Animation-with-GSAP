@@ -22,3 +22,15 @@ A beautifully crafted single-page animation project powered by GSAP (GreenSock A
 📸 Preview Screenshot
 
 ![preview](Assets/image.png)
+
+---
+
+🔧 Built With
+
+HTML5
+
+CSS3
+
+JavaScript
+
+GSAP
