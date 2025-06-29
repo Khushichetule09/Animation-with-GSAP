@@ -34,3 +34,7 @@ CSS3
 JavaScript
 
 GSAP
+
+---
+
+🔗 Live Preview & GitHub: https://github.com/Khushichetule09/Animation-with-GSAP
