@@ -1,40 +1,15 @@
-🎥 GSAP Animation Project
+# Animation-with-GSAP 🎬
 
-A beautifully crafted single-page animation project powered by GSAP (GreenSock Animation Platform). This repository demonstrates how to create smooth, engaging, and modern animations using GSAP with simple HTML, CSS, and JavaScript.
+A sleek, modern single-page animation project powered by the GSAP (GreenSock Animation Platform), built using HTML, CSS & JavaScript.
 
+## ⚙️ Tech Stack  
+HTML5 • CSS3 • JavaScript • GSAP
 
----
+## 💡 Highlights  
+- Seamless, performance-focused animations using GSAP  
+- Scroll-triggered effects and smooth transitions  
+- Clean, minimal code structure — ideal for learning or embedding into landing pages / portfolios  
+- Fully front-end — no backend required  
 
-🌟 Features
-
-✨ Seamless animations using GSAP
-
-🎯 Scroll-triggered effects with ScrollTrigger
-
-📦 Clean and minimal code structure
-
-💡 Perfect for learning or building landing pages & portfolios
-
-
-
----
-
-📸 Preview Screenshot
-
-![preview](Assets/image.png)
-
----
-
-🔧 Built With
-
-HTML5
-
-CSS3
-
-JavaScript
-
-GSAP
-
----
-
-🔗 Live Preview & GitHub: https://github.com/Khushichetule09/Animation-with-GSAP
+## 📄 License  
+MIT © 2025 Khushi Chetule  
